@@ -18,3 +18,8 @@
       npm i prisma -D
       npm i @prisma/client
       npx prisma init
+
+      npx prisma migrate dev
+      ...create_feedbacks
+
+      npx prisma studio
