@@ -35,6 +35,9 @@
       npm install ts-node -D
       npm i -D @swc/core @swc/jest
       npm run test
+
+      npm i cors
+      npm i @types/cors
       
 ### Vídeos:
 [Aula 3](https://www.youtube.com/watch?v=bm2dnsPqcek)
