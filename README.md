@@ -41,3 +41,12 @@
       
 ### Vídeos:
 [Aula 3](https://www.youtube.com/watch?v=bm2dnsPqcek)
+
+(*) links válidos até 08/05/2022
+
+## Repositórios relacionados:
+[NLW Return - Web](https://github.com/jairpro/nlw-return-web)
+
+## 💜 Agradecimentos
+Agradeço a [Rockeatseat](https://rocketseat.com.br/) pela baita aula e pelo empenho em levar nós devs para o próximo nível!
+
