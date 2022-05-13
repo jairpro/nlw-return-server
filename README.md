@@ -27,3 +27,6 @@
 
       npm install nodemailer
       npm install @types/nodemailer -D
+      
+### Vídeos:
+[Aula 3](https://www.youtube.com/watch?v=bm2dnsPqcek)
