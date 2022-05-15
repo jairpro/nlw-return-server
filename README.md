@@ -45,7 +45,8 @@
 (*) links válidos até 08/05/2022
 
 ## Repositórios relacionados:
-[NLW Return - Web](https://github.com/jairpro/nlw-return-web)
+[NLW Return - Web](https://github.com/jairpro/nlw-return-web) |
+[NLW Return - Mobile](https://github.com/jairpro/nlw-return-mobile)
 
 ## 💜 Agradecimentos
 Agradeço a [Rockeatseat](https://rocketseat.com.br/) pela baita aula e pelo empenho em levar nós devs para o próximo nível!
