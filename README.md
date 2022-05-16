@@ -40,7 +40,8 @@
       npm i @types/cors
       
 ### Vídeos:
-[Aula 3](https://www.youtube.com/watch?v=bm2dnsPqcek)
+[Aula 3](https://www.youtube.com/watch?v=bm2dnsPqcek) | 
+[Aula 5](https://www.youtube.com/watch?v=YBp7UWyhe28)
 
 (*) links válidos até 08/05/2022
 
