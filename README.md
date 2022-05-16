@@ -48,6 +48,12 @@
 [NLW Return - Web](https://github.com/jairpro/nlw-return-web) |
 [NLW Return - Mobile](https://github.com/jairpro/nlw-return-mobile)
 
+## Dicas da milha extra:
+- [ ] 1. Em produção usar algum serviço de e-mail
+- [ ] 2. Melhorar HTML/CSS do email
+- [ ] 3. Dashboard de feedbacks (usando autenticação: Firebase/OAuth)
+- [ ] 4. Validação de campos/erros
+
 ## 💜 Agradecimentos
 Agradeço a [Rockeatseat](https://rocketseat.com.br/) pela baita aula e pelo empenho em levar nós devs para o próximo nível!
 
